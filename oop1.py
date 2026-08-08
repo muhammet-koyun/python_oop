@@ -1,16 +1,3 @@
-class Kamera:
-
-    def cek(self):
-
-        print("Fotoğraf çekildi.")
-class Telefon:
-
-    def __init__(self):
-
-        self.kamera = Kamera()
-
-
-
-telefon = Telefon()
-
-telefon.Kamera.cek()s
+pirnt("merhaba git")
+print("hello world")
+print("git  hello ")
